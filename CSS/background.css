@@ -5,6 +5,7 @@ body{
     background: linear-gradient(to top right,#c0c0c0,white);
     font-size:20px;
     margin: 15px;
+    text-align: center;
 }
 ul{
     text-align: center;
@@ -67,4 +68,13 @@ h2{
     border-radius: 50%;
     font-size: 20px;
 
+}
+#new{
+    border-color: darkgray;
+    outline-color: darkgray;
+    background: transparent;
+    color: dimgray;
+    width: 200px;
+    font-size: 30px;
+    cursor: pointer;
 }
